@@ -2,3 +2,7 @@ Movie Ticket Booking System is a desktop application to provide the customers fa
 
 
 ![alt text](https://github.com/AnujVijjan/Movie-Ticket-Booking-System/blob/master/Screenshot.png?raw=true)
+![alt text](https://github.com/AnujVijjan/Movie-Ticket-Booking-System/blob/master/Screenshot1.png?raw=true)
+![alt text](https://github.com/AnujVijjan/Movie-Ticket-Booking-System/blob/master/Screenshot2.png?raw=true)
+![alt text](https://github.com/AnujVijjan/Movie-Ticket-Booking-System/blob/master/Screenshot3.png?raw=true)
+![alt text](https://github.com/AnujVijjan/Movie-Ticket-Booking-System/blob/master/Screenshot4.png?raw=true)
